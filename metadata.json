@@ -1,0 +1,5 @@
+{
+  "name": "SmartBank",
+  "description": "A secure and modern customer onboarding and account creation application for SmartBank, providing a seamless multi-step process for new users.",
+  "requestFramePermissions": []
+}
